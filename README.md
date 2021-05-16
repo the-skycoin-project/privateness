@@ -29,6 +29,12 @@ cd ../..
 ```
 
 ## Rebuilding the frontend
+
+### Make Depends
+
+ * npm
+
+### install npm deps and build frontend
 ```
 cd src/gui/static
 npm ci
